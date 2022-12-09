@@ -28,7 +28,16 @@ for more information about setting up Metabase, click [here](https://www.metabas
 + `Markdown` Metabase allows to add flexible text boxes to your dashboards using Markdown syntax. Learn more about markdown syntax [here](https://www.metabase.com/learn/dashboards/markdown)
 
 ## Create an Interactive Dashboard
-Here is my dashboard from [Yellow Taxi Trip Data](https://github.com/bulletsrip/DataFellowship8-dbt)
+
+### Yellow Trip Dashboard
+About NYC Yellow Taxi Trip Data
+> The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
+
+From the data above, i created a dashboard talks about following Trends:
++ Total trip and passanger trends every month
++ Payment and total amount earned 
+
+The goal is to track, analyze, visually represent your data in an accessible and allows business users to gain insight into their vast amounts of data
 
 ![Yellow Trip Dashboard · Metabase_pages-to-jpg-0001](https://user-images.githubusercontent.com/85284506/206668374-f99841fe-645e-4141-8f12-34a1f09f17b3.jpg)
 
