@@ -1,4 +1,4 @@
-# DataFellowship8-DataVizualization
+# Data Vizualization with Metabase
 ![image](https://user-images.githubusercontent.com/85284506/206662638-d5a08a92-ba28-4a45-b35c-59f356982241.png)
 Metabase is an open source business intelligence tool that lets you create charts and dashboards using data from a variety of databases and data sources.
 
